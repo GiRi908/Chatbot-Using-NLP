@@ -40,7 +40,7 @@ The chatbot operates on a simple yet effective machine learning pipeline:
 ---
 
 ## Project Structure
-
+```bash
 .
 ├── app.py                  # Main Streamlit application file
 ├── chatbot.py              # Script for training, evaluating, and saving the model
@@ -49,7 +49,7 @@ The chatbot operates on a simple yet effective machine learning pipeline:
 
 **Note:** Files like `chat_log.csv`, `vectorizer.pkl`, and `model.pkl` will be generated automatically when you run the scripts.
 
----
+```
 
 ## Setup and Installation
 
